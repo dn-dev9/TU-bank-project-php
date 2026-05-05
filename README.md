@@ -6,6 +6,9 @@ The project features a relational database designed in SQL Developer Data Modele
 The application provides full CRUD operations for each table through a clean PHP interface using PDO with prepared statements, server side validation, and protection against SQL injection and XSS attacks.
 It also includes several reporting queries and session-based employee login system.
 
+## Database Relational Model Design (in Oracle SQL Data Modeler)
+<img width="1176" height="639" alt="image" src="https://github.com/user-attachments/assets/d48a750c-f98d-4fb7-adb9-d918e48cd408" />
+
 ## Home Page
 
 <img width="1458" height="1268" alt="homePage" src="https://github.com/user-attachments/assets/f37ba164-1be4-4470-8bf1-772ef2b975f0" />
